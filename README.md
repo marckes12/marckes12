@@ -32,8 +32,9 @@ Senior Full Stack Developer and Software Architect with 12 years of experience b
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marckes12&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckes12&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marckes12&show_icons=true&theme=dark&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" alt="Estadísticas de Marco" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckes12&layout=compact&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ### 📫 Connect with me
