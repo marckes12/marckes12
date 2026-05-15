@@ -1,4 +1,6 @@
-## Hi there 👋
+<img width="3893" height="2494" alt="fotis-fotopoulos-6sAl6aQ4OWI-unsplash" src="https://github.com/user-attachments/assets/46416ff8-fa67-4d6c-a4a8-9f328388f130" />
+# Hi 👋, I'm Marco Antonio Villaseñor Garcia
+
 
 Full Stack Developer with 12 years of experience building robust web solutions and 6+ years specializing in Flutter mobile development. I focus on creating high-performance tools that solve real business problems.
 
@@ -7,6 +9,8 @@ My recent track record includes the end-to-end development of a custom Enterpris
 Tech Stack: React, FastAPI, Flutter, and SQL databases. I’m passionate about transforming complex business requirements into clean, maintainable, and scalable code.
 
 Current Focus: Gemini API integration for AI-driven features, Cloud Architecture, and advanced State Management in Flutter.
+
+Yoy can reach me: ma
 <!--
 **marckes12/marckes12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
