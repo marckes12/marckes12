@@ -26,7 +26,7 @@ Senior Full Stack Developer and Software Architect with 12 years of experience b
 
 * **Custom ERP Ecosystem:** End-to-end development of a corporate administration system specializing in billing, payroll, and Mexican fiscal protocols (SAT CFDI 4.0).
 * **Mobile Architecture:** Architected and deployed specialized apps for financial consultation and collection management, such as **Movil SanJose** and **Saldo Socios**.
-* **AI Integration:** Implementing AI-driven features using the Gemini API to interpret complex fiscal errors and optimize user workflows.
+* **AI-Powered ERP Enhancements: Integrated Gemini API to provide automated troubleshooting for SAT billing errors, significantly reducing support tickets and improving end-user autonomy.
 * **System Migration:** Expert in modernizing legacy systems, including SOAP to FastAPI migrations and Flutter SDK optimizations.
 
 ### 📊 GitHub Stats
