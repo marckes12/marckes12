@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Full Stack Developer with 12 years of experience building robust web solutions and 6+ years specializing in Flutter mobile development. I focus on creating high-performance tools that solve real business problems.
+
+My recent track record includes the end-to-end development of a custom Enterprise Resource Planning (ERP) system, optimizing internal operations and data integrity. Additionally, I’ve architected and deployed specialized mobile applications for collection management, focusing on scalability and seamless user experience.
+
+Tech Stack: React, FastAPI, Flutter, and SQL databases. I’m passionate about transforming complex business requirements into clean, maintainable, and scalable code.
+
+Current Focus: Gemini API integration for AI-driven features, Cloud Architecture, and advanced State Management in Flutter.
 <!--
 **marckes12/marckes12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
