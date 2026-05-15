@@ -1,27 +1,42 @@
-<img width="3893" height="2494" alt="fotis-fotopoulos-6sAl6aQ4OWI-unsplash" src="https://github.com/user-attachments/assets/46416ff8-fa67-4d6c-a4a8-9f328388f130" />
 # Hi 👋, I'm Marco Antonio Villaseñor Garcia
 
+<p align="center">
+  <img src="https://github.com/marckes12/marckes12/raw/main/assets/banner.jpg" alt="Banner" width="100%">
+</p>
 
-Full Stack Developer with 12 years of experience building robust web solutions and 6+ years specializing in Flutter mobile development. I focus on creating high-performance tools that solve real business problems.
+Senior Full Stack Developer and Software Architect with 12 years of experience building robust web solutions and over 6 years specializing in Flutter mobile architecture. I focus on creating high-performance tools that solve real business problems.
 
-My recent track record includes the end-to-end development of a custom Enterprise Resource Planning (ERP) system, optimizing internal operations and data integrity. Additionally, I’ve architected and deployed specialized mobile applications for collection management, focusing on scalability and seamless user experience.
+### 🛠 Tech Stack
 
-Tech Stack: React, FastAPI, Flutter, and SQL databases. I’m passionate about transforming complex business requirements into clean, maintainable, and scalable code.
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-Current Focus: Gemini API integration for AI-driven features, Cloud Architecture, and advanced State Management in Flutter.
+#### Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-Yoy can reach me: ma
-<!--
-**marckes12/marckes12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### AI & Innovation
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-Here are some ideas to get you started:
+### 🚀 Key Projects & Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Custom ERP Ecosystem:** End-to-end development of a corporate administration system specializing in billing, payroll, and Mexican fiscal protocols (SAT CFDI 4.0).
+* **Mobile Architecture:** Architected and deployed specialized apps for financial consultation and collection management, such as **Movil SanJose** and **Saldo Socios**.
+* **AI Integration:** Implementing AI-driven features using the Gemini API to interpret complex fiscal errors and optimize user workflows.
+* **System Migration:** Expert in modernizing legacy systems, including SOAP to FastAPI migrations and Flutter SDK optimizations.
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marckes12&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckes12&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+### 📫 Connect with me
+
+* **LinkedIn:** [linkedin.com/in/marcovillasenor](https://www.linkedin.com/in/marcovillasenor)
+* **Portfolio:** [Check my apps on Play Store]
