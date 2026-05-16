@@ -37,7 +37,16 @@ Senior Full Stack Developer and Software Architect with 12 years of experience b
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckes12&layout=compact&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
-### 📫 Connect with me
+---
 
-* **LinkedIn:** [linkedin.com/in/marcovillasenor](https://www.linkedin.com/in/marcovillasenor)
-* **Portfolio:** [Check my apps on Play Store]
+### 💼 Let's Build Something Great Together
+
+Are you looking for a Senior Developer & Architect to design scalable mobile apps, optimize modern backends, or implement AI-driven automation for your business administration?
+
+* **Services:** Custom ERP Development, Cloud Migrations (PHP to Python/FastAPI), High-Performance Flutter Apps, and Automated Fiscal/SAT Integrations.
+* **Availability:** Open for selective consulting, software architecture design, and end-to-end development.
+
+📧 **Get in touch:** (marckesgarcia@gmail.com)
+* **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/tu-perfil)
+* **Play Store:** (https://play.google.com/store/apps/details?id=com.cajasanjose.saldo_socios&hl=es_MX)
+* **App Store:** (https://apps.apple.com/mx/app/movil-sanjose/id6446419784)
